@@ -10,7 +10,7 @@
 ## Assembly Operations
 
 * [Attendance](assembly-operations/attendance.md)
-* [Untitled](assembly-operations/untitled.md)
+* [Governing Documents](assembly-operations/untitled.md)
 
 ## Legislative Activities
 
