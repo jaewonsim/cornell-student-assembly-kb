@@ -18,9 +18,10 @@
 
 ## Finances
 
-* [Untitled](finances/untitled.md)
+* [Student Activity Fee](finances/untitled.md)
 
 ## Committees
 
 * [Committee Attendance](committees/committee-attendance.md)
+* [Executive Cabinet](committees/executive-cabinet.md)
 
