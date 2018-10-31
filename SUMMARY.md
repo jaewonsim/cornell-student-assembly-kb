@@ -6,6 +6,9 @@
 
 * [The Student Assembly](about/the-student-assembly.md)
 * [Shared Governance at Cornell](about/untitled.md)
+* [This Knowledgebase](about/this-knowledgebase.md)
+* [Office of the Assemblies](about/office-of-the-assemblies.md)
+* [Shared Governance Glossary](about/shared-governance-glossary.md)
 
 ## Logistics
 
