@@ -22,6 +22,6 @@
 
 ## Committees
 
-* [Committee Attendance](committees/committee-attendance.md)
+* [Committee Membership and Attendance](committees/committee-attendance.md)
 * [Executive Cabinet](committees/executive-cabinet.md)
 
