@@ -28,7 +28,11 @@ Effective September 21st, 2018, the chairs of all SA committees have voted to ad
 
 ### Common Attendance Policy
 
-To be written.
+{% hint style="warning" %}
+The centralized attendance sheet is only accessible by committee chairs and members of the Student Assembly Executive Committee.
+{% endhint %}
+
+Chairs are asked to record their committee members' attendance on the [centralized attendance sheet](http://go.cornellsa.com/attendance).
 
 ### Removing Members for Attendance Violations
 
