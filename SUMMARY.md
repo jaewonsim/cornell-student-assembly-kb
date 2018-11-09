@@ -23,7 +23,7 @@
 
 ## Legislative Activities
 
-* [Legislative Activities Overview](legislative-activities/legislative-activities.md)
+* [The Legislative Process](legislative-activities/legislative-activities.md)
 * [Resolutions and Agenda Items](legislative-activities/resolutions-and-agenda-items.md)
 
 ## Finances
