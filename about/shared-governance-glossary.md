@@ -10,5 +10,11 @@
 | EA | Employee Assembly |  |
 | OA | Office of the Assemblies | Gina and Pam, in the office located in 109 Day Hall |
 
+## Administrative Offices and Groups
+
+| Abbreviation | Stands For | Which is |
+| :--- | :--- | :--- |
+| SCL | Student and Campus Life | The office under VP Ryan Lombardi. OSCL \(Office of SCL\) and VP-SCL \(VP of SCL\) may be used. |
+
 
 
