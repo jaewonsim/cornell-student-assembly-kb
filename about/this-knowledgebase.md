@@ -1,5 +1,9 @@
 # This Knowledgebase
 
+{% hint style="info" %}
+For Those Interested: This book is hosted on GitHub and is styled using Markdown. The repository, including the full commit history, can be found here: [https://github.com/jaewonsim/cornell-student-assembly-kb](https://github.com/jaewonsim/cornell-student-assembly-kb).
+{% endhint %}
+
 ## Purpose
 
 Members of the Student Assembly change over the years. Newly elected members are oftentimes confused about how the SA works, and old members leave, taking their legislative knowledge with them.
