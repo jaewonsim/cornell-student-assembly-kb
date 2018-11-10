@@ -22,6 +22,12 @@ Please email Jaewon Sim at js2689@cornell.edu for questions and proposals and I 
 
 We want this book to be consistent. Hence, those with edit permissions should keep in mind the following.
 
+### People and Names
+
+The SA membership changes every year. Hence, editors should not mention people by name in this book. 
+
+Instead, use their title and link the title to the relevant section of this page. For example, instead of "Vice President John Doe," simply say "[Vice President](../assembly-operations/student-assembly-leadership.md)" and link the title to a revelant page as shown. This ensures that these parts of the knowledgebase stay accurate even with changes in SA membership.
+
 ### Readability
 
 This guide should not be a source document. That is, it should be a "readable" version of policy documents. Hence, editors should _not_  copy-and-paste any governing documents, but instead summarize or paraphrase them into more readable forms.

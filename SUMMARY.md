@@ -17,6 +17,7 @@
 
 ## Assembly Operations
 
+* [Student Assembly Leadership](assembly-operations/student-assembly-leadership.md)
 * [Attendance](assembly-operations/attendance.md)
 * [Governing Documents](assembly-operations/untitled.md)
 * [Working with the Administration](assembly-operations/working-with-the-administration.md)
@@ -34,6 +35,7 @@
 
 * [Social Media Channels](communications/social-media-channels.md)
 * [Newsletters](communications/newsletters.md)
+* [Website](communications/website.md)
 
 ## Committees
 
