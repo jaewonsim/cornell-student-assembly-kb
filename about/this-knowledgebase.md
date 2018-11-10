@@ -2,11 +2,21 @@
 
 ## Purpose
 
+Members of the Student Assembly change over the years. Newly elected members are oftentimes confused about how the SA works, and old members leave, taking their legislative knowledge with them.
+
+This book is intended to document some of the knowledge that SA members might have gained over their years on the assembly and to pass these onto new members.
+
 ## Vision
 
-## People
+This book is not a replacement for governing documents. The most up-to-date rules that govern the SA are on the latest versions of the governing documents, while I try my best to update this book regularly.
+
+The documents, though, are not easy to read -- and that is the gap this book intends to fill. This book will hopefully serve as a go-to reference for all new and returning SA members on the policies that govern us, and make it easier for representatives to understand such rules with minimal effort spent searching through numerous pages of antiquated documents.
 
 ## Proposing and Making Changes
+
+This book is constantly evolving. Additions and amendments will be made. Any feedback by the extended Student Assembly community is truly appreciated.
+
+Please email Jaewon Sim at js2689@cornell.edu for questions and proposals and I will get back to you in a timely manner.
 
 ## Style Guide
 
