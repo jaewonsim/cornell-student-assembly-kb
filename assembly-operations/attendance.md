@@ -31,7 +31,7 @@ These are held Thursdays, from 4:45 PM until 6:30 PM., while undergraduate colle
 
 #### Excusal Criteria
 
-When the Vice President of Internal Operations \(Jaewon Sim, js2689\) is notified at least 24-hours in advance, the following are reasons for excused absences:
+When the [Vice President of Internal Operations](student-assembly-leadership.md#vice-president-of-internal-operations) is notified at least 24-hours in advance, the following are reasons for excused absences:
 
 * Unavoidable academic conflicts including prelims, final presentations, and field trips **but not including** office hours, review sessions or professor visits that are in direct conflict with a required Student Assembly meeting
 
