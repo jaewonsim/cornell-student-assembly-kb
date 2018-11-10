@@ -8,7 +8,7 @@ All staffing proposals must be approved by the Executive Cabinet \(formerly the 
 
 The VP will then send out a call-for-vote to members of the Executive Cabinet \(or have the proposal be voted on during an Executive Cabinet meeting\) and notify the chair of the results. An email-chain vote is more common. The chairs presenting the staffing proposal can also vote on their own proposals -- this is at their discretion.
 
-Once approved and the results of the vote has beem called by the Vice President of Internal Operations, committee staffing can be accomplished through the [Office of the Assemblies website](https://assembly.cornell.edu).
+Once approved and the results of the vote has beem called by the [Vice President of Internal Operations](../assembly-operations/student-assembly-leadership.md#vice-president-of-internal-operations), committee staffing can be accomplished through the [Office of the Assemblies website](https://assembly.cornell.edu).
 
 ### Removing Members
 
