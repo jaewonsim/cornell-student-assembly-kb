@@ -1,2 +1,0 @@
-# Shared Governance at Cornell
-

@@ -2,7 +2,7 @@
 
 ## Shared Governance and Support Groups
 
-More about shared governance groups can be found in [Shared Governance at Cornell](untitled.md). The SA also appoints liaisions and committee members to all of the shared governance bodies.
+More about shared governance groups can be found in [Shared Governance at Cornell](). The SA also appoints liaisions and committee members to all of the shared governance bodies.
 
 | Abbreviation | Stands For | Which is |
 | :--- | :--- | :--- |

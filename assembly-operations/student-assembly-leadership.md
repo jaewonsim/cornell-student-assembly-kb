@@ -12,37 +12,53 @@ Style Guide: Members with edit access to this book should refrain from mentionin
 
 Currently **Varun Devatha**.
 
+* Ask any general questions!
+
 ### Executive Vice President
 
 Currently **Joseph Anderson**.
+
+* Ask questions regarding the weekly meeting agenda
 
 ### Vice President of Internal Operations
 
 Currently **Jaewon Sim**. Jaewon manages this book -- you can email js2689@cornell.edu with proposed changes or questions.
 
+* Ask questions regarding attendance, SA committees \(and their membership\), SA liaisons and other general questions about assembly operations
+
 ### Vice President of Finance
 
 Currently **Dale Barbaria**.
+
+* Ask questions regarding SA and committee finances and the byline funding process
 
 ### Vice President of External Affairs
 
 Currently **Savanna Lim**.
 
+* Ask questions regarding SA social media channels and newsletters
+
 ### Vice President of Diversity and Inclusion
 
 Currently **Natalia Hernandez**.
+
+* Ask questions regarding the SA's diversity initiatives and efforts to make the assembly and the campus more inclusive
 
 ### Director of Elections
 
 Currently **Shashank Vura**.
 
+* Ask all questions regarding spring and fall elections
+
 ### Parliamentarian
 
 Currently **Edem Dzodzomenyo**.
+
+* Ask questions regarding parliamentary procedure
 
 ### Executive Archivist
 
 Currently **Anushka Haldar**.
 
-
+* Ask questions regarding past SA initiatives and legislative precedence
 
