@@ -9,6 +9,10 @@
 * [Office of the Assemblies](about/office-of-the-assemblies.md)
 * [Shared Governance Glossary](about/shared-governance-glossary.md)
 
+## Onboarding
+
+* [Welcome to the Student Assembly](onboarding/welcome-to-the-student-assembly.md)
+
 ## Logistics
 
 * [Room Reservations](logistics/room-reservations.md)
