@@ -17,6 +17,16 @@ Attendance is enforced following the current [Standing Rules](untitled.md), _Sec
 Attendance for Student Assembly committees are not governed under this attendance policy. This policy only applies to regularly, or specially scheduled meetings of the voting members of the Student Assembly -- including the regular 4:45 PM Thursday meetings. Refer to [Committee Attendance](../committees/committee-attendance.md) for information on the policy that applies to committees
 {% endhint %}
 
+### Why is Attendance Enforced?
+
+While the reason we take attendance may be obvious, we highlight a few key reasons here:
+
+* We keep track of whether we'll have quorum. By informing the VP of Internal Operations late, you may be wasting other representatives' time. Without quorum, we can't take legislative action.
+* Simply, as a representative, you are expected to show up to meetings. This is a promise you made to your constituents when you ran for your position.
+* Frankly, your absence reflects badly on the assembly as a whole. Having a good reputation is essential to being an effective deliberate assembly.
+
+Always keep in mind that the purpose of the attendance policy is not to punish members. It is to ensure that the assembly operates at its full capacity and you, as an elected representative, have an obligation to contribute to the well-functioning of the SA.
+
 ### Who this Affects
 
 Attendance is required at all regularly scheduled meetings for **all voting** and **ex-officio members** who serve in a liaison capacity. This policy **does not apply** to shared governance liaisons.
@@ -44,6 +54,10 @@ In most cases, you will not be excused for an absence if you do not notify the V
 * Unavoidable conflicts as a result of religious obligations that are in direct conflict with a required Student Assembly meeting can be excused at the _discretion of the VP of Internal Operations_
 
 #### Getting an Excusal
+
+{% hint style="warning" %}
+Frequent absences -- both excused and unexcused -- will result in the VP of Internal Operations requesting documentation from you. Eligible documentation could include email chains, or verification of exam schedule.
+{% endhint %}
 
 You may be able to get excused for your absence, late arrival, or early departure, depending on your reason.
 
