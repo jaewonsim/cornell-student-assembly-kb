@@ -24,6 +24,7 @@
 * [Attendance](assembly-operations/attendance.md)
 * [Governing Documents](assembly-operations/untitled.md)
 * [Working with the Administration](assembly-operations/working-with-the-administration.md)
+* [Communications](assembly-operations/communications.md)
 
 ## Legislative Activities
 
