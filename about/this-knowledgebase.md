@@ -16,6 +16,8 @@ This book is not a replacement for governing documents. The most up-to-date rule
 
 The documents, though, are not easy to read -- and that is the gap this book intends to fill. This book will hopefully serve as a go-to reference for all new and returning SA members on the policies that govern us, and make it easier for representatives to understand such rules with minimal effort spent searching through numerous pages of antiquated documents.
 
+While neutral, the views expressed in this book -- especially in parts about the legislative and resolution-writing processes of the assembly -- may be nuanced. This is intentional. The main objective of the book is guide the wider SA community through the complex workings of the SA and hence this document is geared towards practical applications of the principles laid out in our governing documents. Such views expressed in this book may change over time to reflect the governing structure of the most current SA.
+
 ## Proposing and Making Changes
 
 This book is constantly evolving. Additions and amendments will be made. Any feedback by the extended Student Assembly community is truly appreciated.
