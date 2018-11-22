@@ -25,6 +25,7 @@
 * [Governing Documents](assembly-operations/untitled.md)
 * [Working with the Administration](assembly-operations/working-with-the-administration.md)
 * [Communications](assembly-operations/communications.md)
+* [Liaisons and Delegations](assembly-operations/liaisons-and-delegations.md)
 
 ## Legislative Activities
 

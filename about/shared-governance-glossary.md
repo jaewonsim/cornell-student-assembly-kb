@@ -17,6 +17,8 @@ More about shared governance groups can be found in [Shared Governance at Cornel
 | Abbreviation | Stands For | Which is |
 | :--- | :--- | :--- |
 | SCL | Student and Campus Life | The office under VP Ryan Lombardi. OSCL \(Office of SCL\) and VP-SCL \(VP of SCL\) may be used. |
+| UREL | University Relations | The office under VP Joel Malina. UREL and VP-UREL may be used. The [Office of the Assemblies](office-of-the-assemblies.md#the-office) is under UREL. |
+| IPP | Infrastructure, Properties and Planning |  |
 
 
 
