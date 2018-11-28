@@ -31,6 +31,7 @@
 
 * [The Legislative Process](legislative-activities/legislative-activities.md)
 * [Resolutions and Agenda Items](legislative-activities/resolutions-and-agenda-items.md)
+* [Surveying the Student Body](legislative-activities/surveying-the-student-body.md)
 
 ## Finances
 
