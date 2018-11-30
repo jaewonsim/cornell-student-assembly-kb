@@ -37,6 +37,17 @@ Attendance is required at all regularly scheduled meetings for **all voting** an
 
 These are held Thursdays, from 4:45 PM until 6:30 PM., while undergraduate colleges are in session. All organizational and specially-scheduled meetings are also considered "regularly scheduled meetings" for attendance purposes when the Executive Committee provides SA members at least 24 hours’ prior notice of the meeting.
 
+### Violations
+
+Attendance policy violations will result in the following number of unexcused absences being added to your term total. Note that this is for your full year, not just a semester, i.e. **the count does not reset after a semester**.
+
+| Violation | Number of unexcused absences |
+| :--- | :--- |
+| Unexcused absence | 1 |
+| Arrive late, but within 15 minutes of roll call | 0.25 |
+| Arrive late, after 15 minutes past roll call | 0.5 |
+| Leave early | 0.5 |
+
 ### Excusals
 
 #### Excusal Criteria
