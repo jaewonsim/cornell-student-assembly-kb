@@ -25,6 +25,7 @@
 * [Governing Documents](assembly-operations/untitled.md)
 * [Working with the Administration](assembly-operations/working-with-the-administration.md)
 * [Communications](assembly-operations/communications.md)
+* [Access Requests](assembly-operations/access-requests.md)
 * [Liaisons and Delegations](assembly-operations/liaisons-and-delegations.md)
 
 ## Legislative Activities
@@ -42,6 +43,7 @@
 * [Social Media Channels](communications/social-media-channels.md)
 * [Newsletters](communications/newsletters.md)
 * [Website](communications/website.md)
+* [Photography](communications/photography.md)
 
 ## Committees
 
