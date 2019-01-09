@@ -10,6 +10,18 @@ The Student Assembly has a centralized folder for storing photos of SA members o
 
 The folder containing all photos can be found at [https://cornell.app.box.com/folder/59920278160](https://cornell.app.box.com/folder/59920278160).To upload photos, please read the section below on storing photos and follow the guidelines listed there.
 
+## Search Cornell Photos First
+
+High quality photos taken by university photographers are available for free on [photo.cornell.edu](https://photo.cornell.edu).
+
+Check Cornell Photos first before searching elsewhere. Photos need to be accredited to the photographer in the following manner \(as of Jan 9th, 2018\):
+
+```text
+John Doe / Cornell Brand Communications
+```
+
+Check the Frequently Asked Questions section of Cornell Photos for specific guidelines as the photo credits format may have changed.
+
 ## Storing Photos
 
 ### Guidelines
