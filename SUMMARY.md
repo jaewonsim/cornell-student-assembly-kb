@@ -47,8 +47,8 @@
 
 ## Committees
 
+* [Committees and Meetings](committees/committee-meetings.md)
 * [Committee Membership and Attendance](committees/committee-attendance.md)
 * [Executive Cabinet](committees/executive-cabinet.md)
 * [Committee Finances](committees/committee-finances.md)
-* [Committee Meetings](committees/committee-meetings.md)
 
