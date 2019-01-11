@@ -7,6 +7,10 @@ description: >-
 
 # Attendance
 
+{% hint style="info" %}
+[Go straight to the Google form](attendance.md#excusal-google-form) for requesting excusals. If unsure about the attendance policy, read this document in its entirety.
+{% endhint %}
+
 ## Student Assembly Attendance Policy
 
 {% hint style="info" %}
@@ -73,6 +77,23 @@ Frequent absences -- both excused and unexcused -- will result in the VP of Inte
 You may be able to get excused for your absence, late arrival, or early departure, depending on your reason.
 
 Generally, you are required to notify the VP of Internal Operations at least **24 hours** in advance of the scheduled meeting you are going to be absent, arriving late for, or departing early from.
+
+#### Excusal Google form
+
+{% hint style="danger" %}
+If your grounds for excusal is not a conflict with an exam, a final presentation, or an academic field trip, you should clear your request with the VP of Internal Operations before submitting this form.
+{% endhint %}
+
+You can request excusals online using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdPWniv8GJHm3kMbYnS6GQIdat6XChx0Ruig_wNOXTl5cddIw/viewform?usp=sf_link). When using the form, be aware that:
+
+* Submitting a form does **not** guarantee an excusal. You should not assume that you are excused from a meeting simply because you have submitted a form. Requests that do not meet the criteria above will not be accepted.
+* Depending on when you submit the form, you may not receive a prompt response from the VP of Internal Operations about the result of your request. To get a prompt response when anything is unclear, contact the VP separately.
+
+#### Emailing VP of Internal Operations
+
+{% hint style="danger" %}
+Please use the Google form above instead of emailing the VP directly, as that is now the standard for excusal requests.
+{% endhint %}
 
 When notifying the VP of Internal Operations in writing, include the following information:
 
