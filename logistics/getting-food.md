@@ -2,6 +2,10 @@
 
 ## Principles
 
+{% hint style="danger" %}
+No spending before approval! All committee and Student Assembly expenditures must be approved by the Vice President of Finance. Do not place orders directly through the Office of the Assemblies if you have not received explicit approval. Also remember to CC the VPF in your request email to the OA.
+{% endhint %}
+
 ### Committees
 
 All SA members are expected to be good stewards of student money. Committee chairs are strongly discouraged from getting food for their meetings. Should your committee you be authorized for such expenditures, refer to [Committee Finances](../committees/committee-finances.md) for information on orders.
